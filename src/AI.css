@@ -21,14 +21,14 @@
     }
 
     .with-background {
-      /* background-image: url('https://i.ibb.co/SNxxM3j/Untitled-design.png'); */
+      background-image: url('https://i.ibb.co/SNxxM3j/Untitled-design.png');
 
       
-      background-image: url('https://i.ibb.co/vCWXhRZ/Screenshot-2024-01-24-104913.png');
+/*       background-image: url('https://i.ibb.co/vCWXhRZ/Screenshot-2024-01-24-104913.png');
 
       
       
-      background-image: url('https://i.ibb.co/vw97CZ5/Screenshot-2024-01-24-105241.png');
+      background-image: url('https://i.ibb.co/vw97CZ5/Screenshot-2024-01-24-105241.png'); */
      
       background-size: cover;
       backdrop-filter: blur(30px); /* Apply the blur effect to the background */
